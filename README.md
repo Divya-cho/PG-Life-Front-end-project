@@ -1,5 +1,6 @@
 # PG-Life-Front-end-project
-Using HTML, CSS, Bootstrap5
+Dveloped Front end Web page using HTML, CSS, Bootstrap5
+
 It is an online website of searching of PGs in various popular Cities of India. It can be accessed throughout
 the world as well with proper login provided.
 – Online searching of PGs is mainly by many undergraduate students for residence and as well as post graduate
